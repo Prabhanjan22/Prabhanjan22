@@ -53,16 +53,16 @@
 
 ### 📂 Featured Projects
 
-- 🌃 **Low Light Vision** — Enhancing object detection in dark environments with deep learning
-- 🚨 **Emergency Aid App** — Smart emergency assistance powered by location & real-time alerts
-- 📄 **NLP Lab Report Analyzer** *(Coming Soon)* — Extracts, summarizes, and predicts diseases from lab PDFs
+- 🌃 **Low Light Vision** — Enhancing object detection in dark environments with deep learning  
+- 🚨 **Emergency Aid App** — Smart emergency assistance powered by location & real-time alerts  
+
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/prabhanjan-j" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/prabhanjan-j" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:prabhu22022006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
