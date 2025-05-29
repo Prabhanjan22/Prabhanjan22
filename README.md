@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Prabhanjan</h1>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&width=535&lines=BTech+Artificial+Intelligence+%26+Data+Science+Student;AI+%7C+NLP+%7C+CV+%7C+ML+Enthusiast;Coding+the+future%2C+one+model+at+a+time" alt="Typing SVG" />
+</p>
 <p align="center">
   <em>BTech Student in Artificial Intelligence & Data Science</em><br>
   <em>Manakula Vinayagar Engineering College</em>
@@ -46,9 +48,21 @@
 ### 🗓 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prabhanjan2003&theme=tokyo-night&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Prabhanjan22&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhanjan22&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
+---
+
+### 🏆 GitHub Trophies (Optional)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhanjan22&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
 ---
 
 ### 📂 Featured Projects
