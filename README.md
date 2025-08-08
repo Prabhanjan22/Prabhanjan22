@@ -67,8 +67,7 @@
 
 ### 📂 Featured Projects
 
-- 🌃 **Low Light Vision** — Enhancing object detection in dark environments with deep learning  
-- 🚨 **Emergency Aid App** — Smart emergency assistance powered by location & real-time alerts  
+💱 Currency Converter — Real-time multi-currency conversion with API integration & interactive Java Swing GUI
 
 
 ---
